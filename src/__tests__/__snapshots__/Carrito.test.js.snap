@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas debe mostrar componente 1`] = `ShallowWrapper {}`;

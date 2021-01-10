@@ -1,0 +1,36 @@
+.dropdown-toggle::after{
+
+    color:#FFFFFF
+}
+
+.dropdown-menu { background-color: #800000;
+        color: #FFFFFF;
+} 
+.palabralink{
+    color:#FFFFFF;
+    padding-left:0.5rem;
+padding-right:0.5rem;
+    
+}
+.palabralink:hover{
+    padding-left:0.5rem;
+padding-right:0.5rem;
+    color:#000000;
+    background: #FFFFFF;
+}
+.link{
+padding-left:0.5rem;
+padding-right:0.5rem;
+    color:#ffe6e6 !important;
+}
+
+
+.dropdown-item.active, .dropdown-item:active{
+
+    color:#FF0000;
+    background:#FFFFFF;
+}
+
+.menu{
+    background:#800000;
+}

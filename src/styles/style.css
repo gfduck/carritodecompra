@@ -1,0 +1,30 @@
+body{
+    background: #7c7c7c;
+}
+
+.menuIndex{
+    background:#6300c6 !important;
+}
+
+.dropdown-toggle::after{
+
+    color:#000000 !important;
+}
+.arrowMenu{
+    color:#FFFFFF !important;
+   
+    padding:.5rem 1rem;
+}
+
+.drop{
+    color:#FFFFFF;
+    background-color:#FFFFFF;
+    border:1px solid #cccccc;
+}
+
+.link-menu{
+    color:#FFFFFF !important;
+}
+
+
+
